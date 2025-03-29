@@ -36,8 +36,3 @@ The dataset used in this project is sourced from the UCI Machine Learning Reposi
 ## 📂 Files Included
 - **Maternal_Health_Risk.pdf** - Detailed report with analysis, methodology, and findings.
 - **Jupyter Notebook** - Python scripts for data preprocessing, model training, and evaluation.
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/maternal-health-risk.git
