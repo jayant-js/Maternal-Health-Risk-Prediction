@@ -29,9 +29,11 @@ The dataset used in this project is sourced from the UCI Machine Learning Reposi
 - Overleaf for document formatting
 
 ## 📈 Results & Insights
-- Different classification models were tested for accuracy.
-- Key features influencing maternal health risks were analyzed.
-- The final model provides a reliable prediction of maternal risk levels.
+
+- Multiple classification models were evaluated using both **accuracy** and **recall** metrics.
+- Given the medical context, **recall** was prioritized to minimize false negatives and ensure high sensitivity in detecting maternal health risks.
+- Key features contributing to maternal health risk levels were identified and analyzed for their impact.
+- The final selected model demonstrated strong recall performance, making it a reliable and safe choice for predicting maternal risk levels.
 
 ## 📂 Files Included
 - **Maternal_Health_Risk.pdf** - Detailed report with analysis, methodology, and findings.
