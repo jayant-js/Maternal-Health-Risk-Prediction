@@ -20,7 +20,7 @@ The dataset used in this project is sourced from the UCI Machine Learning Reposi
 - **Exploratory Data Analysis (EDA)** - Data distribution, feature analysis, and insights.
 - **Data Preprocessing** - Handling missing values, outlier removal, and feature scaling.
 - **Model Training** - Applying machine learning models for classification.
-- **Evaluation & Visualization** - Confusion matrix, accuracy metrics, and final model insights.
+- **Evaluation & Visualization** - Confusion matrix, recall metrics, accuracy metrics and final model insights.
 
 ## 🔧 Technologies Used
 - Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
